@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+*.sqlite3
+.env
+.venv/
+venv/
+env/
+.env.local
+.DS_Store
+
+# Streamlit
+.streamlit/secrets.toml
+.streamlit/config.toml
+
+# Jupyter / temporary
+.ipynb_checkpoints
+*.ipynb
+
+# Data
+*.csv
+*.xlsx
+*.parquet
+*.json
+*.zip
+
+# OS / IDE
+.vscode/
+.idea/
+*.swp
+
+# Mac / Windows
+Thumbs.db
+.DS_Store
